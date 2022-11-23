@@ -8,7 +8,7 @@ In the following example we add a limit driver to `MyKinematicMeasure`, which li
 measures between -1 and 1. 
 
 ```
-#include "../path/to/KinLimitsDriver_template.any"
+#include "../path/to/KinLimit_template.any"
 
 Main = {
 
